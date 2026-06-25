@@ -14,7 +14,6 @@ function App() {
         <a href="https://rderik.com">rderik.com</a>
       </footer>
     </div>
-  );
 }
 
 export default App;
